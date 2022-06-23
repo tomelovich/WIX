@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\фыв\34\AppSample\InstallAppSaple\bin\Debug\InstallAppSaple.msi
+C:\Users\Admin\Desktop\фыв\34\AppSample\InstallAppSaple\bin\Debug\InstallAppSaple.wixpdb

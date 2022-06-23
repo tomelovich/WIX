@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\фыв\34\AppSample\AppSample\bin\Debug\AppSample.exe
+C:\Users\Admin\Desktop\фыв\34\AppSample\AppSample\bin\Debug\AppSample.exe.config
